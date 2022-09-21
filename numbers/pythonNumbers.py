@@ -55,7 +55,7 @@ print(c)
 print(type(a))
 print(type(b))
 print(type(c))
-print("------------") #separete prints
+print("------------") #separete print
  
 #Random Number 
     #In python doens't have a function random number
