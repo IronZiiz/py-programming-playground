@@ -8,5 +8,4 @@
 tz = open("/home/ziiz/Documents/Programming/learningPhython/FileHanding/first.txt","rt")
 print(tz.read())
 
-def hyn():
-    print("------------")
+
