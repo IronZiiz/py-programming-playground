@@ -17,4 +17,5 @@ print(secArray)
 hyn()
 
 # My version NumPy
+
 print(np.__version__)
