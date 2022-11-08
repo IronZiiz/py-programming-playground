@@ -1,3 +1,6 @@
+def hyn():
+    print("------------")
+
 # same data types default python
 
 """
@@ -16,7 +19,6 @@ V - fixed chunk of memory for other type ( void )
 """ 
 
 import numpy as np 
-from globalFunctionsFolder.globalFunctions import hyn
 
 firstArray = np.array([6, 66, 666])
 print(firstArray.dtype)

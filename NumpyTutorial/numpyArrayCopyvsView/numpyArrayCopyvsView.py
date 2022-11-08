@@ -1,3 +1,6 @@
+def hyn():
+    print("------------")
+
 # numpy array copy vs view 
 
 """
@@ -5,7 +8,6 @@ The main difference between a copy and a view of an array is that the copy is a 
 """
 # COPY 
 import numpy as np 
-from globalFunctionsFolder.globalFunctions import hyn 
 
 firstArray = np.array([6, 66, 666])
 x = firstArray.copy()
